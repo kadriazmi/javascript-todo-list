@@ -37,3 +37,7 @@ This project helped me practice:
 - DOM manipulation
 - Event listeners
 - Dynamic UI rendering
+
+## Live Demo
+
+🚀 [View Live Demo](https://kadriazmi.github.io/javascript-todo-list/)
